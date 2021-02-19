@@ -1,7 +1,7 @@
 '''
 
-16 -Faça um programa que leia um número inteiro positivo impar N imprima todos os numeros impares 1 ate N
-em ordem DEcrescente.
+16 -Faça um programa que leia um número inteiro positivo impar N, imprima todos os numeros impares 1 ate N
+em ordem decrescente.
 
 '''
 n = int(input("Digite: "))
