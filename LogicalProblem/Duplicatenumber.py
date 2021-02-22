@@ -9,7 +9,6 @@ def findeduplicatenumber(list):
             if a == b and i != v:
                 duplicate = list[v]
                 break
-            b = 0
     if duplicate != None:
         return duplicate
     else:
