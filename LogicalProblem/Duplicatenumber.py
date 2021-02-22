@@ -1,3 +1,4 @@
+#FindeDuplicateNumber
 def findeduplicatenumber(list):
     a = 0
     b = 0
@@ -14,5 +15,6 @@ def findeduplicatenumber(list):
     else:
         print("Not exist duplicate number.")
         return duplicate
+#CodeHome
 lista = [1,2,3,4]
 print(findeduplicatenumber(lista))
