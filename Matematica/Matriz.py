@@ -15,12 +15,12 @@ def matriz(linha, coluna):
         origem = []
     return fim
 #CodeHome
-print("Numero de Colunas: ")
+print("--|Numero de Colunas|-- ")
 coluna = number()
-print("Numero de linhas: ")
+print("--|Numero de linhas|-- ")
 linha = number()
-matri = matriz(linha, coluna)
-for i in range(0, coluna):
-    for v in range(0, linha):
+matri = matriz(coluna, linha)
+for i in range(0, linha):
+    for v in range(0, coluna):
         print(f"| {matri[i][v]} |", end='')
     print("")
