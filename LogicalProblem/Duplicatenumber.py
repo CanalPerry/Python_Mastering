@@ -1,14 +1,19 @@
 def findeduplicatenumber(list):
-    const = True
-    duplicate = 0
-    while const == True:
-        for i in range(0, len(list)):
-            for v in range(1, len(list)-1):
-                if list[i] == list[v]:
-                    duplicate = list[v]
-                    const = False
-                    break
-            if const == False:
+    a = 0
+    b = 0
+    duplicate = None
+    for i in range(0, len(list)):
+        for v in range(0, len(list)):
+            a = list[i]
+            b = list[v]
+            if a == b and i != v:
+                duplicate = list[v]
                 break
-    return duplicate
-print(findeduplicatenumber([1,3,3,4,5,6]))
+            b = 0
+    if duplicate != None:
+        return duplicate
+    else:
+        print("Not exist duplicate number.")
+        return duplicate
+lista = [1,2,3,4]
+print(findeduplicatenumber(lista))
