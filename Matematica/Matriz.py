@@ -20,7 +20,7 @@ coluna = number()
 print("Numero de linhas: ")
 linha = number()
 matri = matriz(linha, coluna)
-for i in range(0, linha):
-    for v in range(0, coluna):
+for i in range(0, coluna):
+    for v in range(0, linha):
         print(f"| {matri[i][v]} |", end='')
     print("")
