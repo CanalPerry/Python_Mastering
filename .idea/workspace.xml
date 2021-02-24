@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61418606-86d0-4d5b-a379-caaef2398221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LogicalProblem/CadastroDeAluno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex11&amp;12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex13&amp;14&amp;15&amp;16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex28&amp;29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex32B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex55&amp;56&amp;57&amp;58.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel2/Ex60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel3/Ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel3/Ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel3/Ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel3/Ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy-Nivel3/Ex05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogicalProblem/Duplicatenumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalProblem/Duplicatenumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
