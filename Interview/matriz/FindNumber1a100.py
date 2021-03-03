@@ -20,11 +20,10 @@ def retirado(lista):
         else:
             x += 1
 #CodeHome
-lista = []
+
 num = int(input("Digite um numero: "))
+lista = [n for n in range(1, num+1)]
 print("LISTA COM TODOS OS NÚMEROS.")
-for i in range(1, num):
-    lista.append(i)
 mostra(lista)
 choice = random.choice(lista)
 lista = remove(lista, choice)

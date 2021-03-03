@@ -1,25 +1,14 @@
 #Number
-def number():
-    numero = int(input("Digite um numero: "))
+def number(x, y):
+    numero = int(input(f"Coluna {x+1} | Linha {y+1} digite número: "))
     return numero
-#Matriz
-def matriz(linha, coluna):
-    origem = []
-    fim = []
-    for i in range(0, coluna):
-        print(f"{i+1}° Linha.")
-        for x in range(0, linha):
-            num = number()
-            origem.append(num)
-        fim.append(origem)
-        origem = []
-    return fim
 #CodeHome
 print("--|Numero de Colunas|-- ")
-coluna = number()
+coluna = int(input("Digite: "))
 print("--|Numero de linhas|-- ")
-linha = number()
-matri = matriz(coluna, linha)
+linha = int(input("Digite: "))
+#matri = matriz(coluna, linha)
+matri = [[number(n, v) for n in range(0, coluna)]for v in range(0, linha)]
 for i in range(0, linha):
     for v in range(0, coluna):
         print(f"| {matri[i][v]} |", end='')

@@ -12,10 +12,8 @@ def SumPairs(lista):
                                 comb.append(f"{lista[x]} + {lista[y]} = {lista[z]} + {lista[w]} = {lista[x] + lista[y]}")
     return comb
 #CodeHome
-lista = []
 numb = int(input("Digite numero: "))
-for i in range(1, numb+1):
-    lista.append(i)
+lista = [n for n in range(0, numb+1)]
 sum = SumPairs(lista)
 for i in range(0, len(sum)):
     print(f"| {sum[i]} |")
