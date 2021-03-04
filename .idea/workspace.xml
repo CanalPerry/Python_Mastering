@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="61418606-86d0-4d5b-a379-caaef2398221" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogicalProblem/Tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalProblem/Tabuada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy-Nivel3/Ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy-Nivel3/Ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy-Nivel3/Ex02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy-Nivel3/Ex02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +36,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Python.Tabuada">
-    <configuration name="Ex07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex02">
+    <configuration name="Ex01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Mastering" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy-Nivel3/Ex07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy-Nivel3/Ex01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindNumber1a100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Mastering" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview/matriz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy-Nivel3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/matriz/FindNumber1a100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy-Nivel3/Ex02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Tabuada" />
+        <item itemvalue="Python.Ex02" />
+        <item itemvalue="Python.Ex01" />
         <item itemvalue="Python.Matriz" />
+        <item itemvalue="Python.Tabuada" />
         <item itemvalue="Python.FindPairsSumisEqual" />
-        <item itemvalue="Python.FindNumber1a100" />
-        <item itemvalue="Python.Ex07" />
       </list>
     </recent_temporary>
   </component>
