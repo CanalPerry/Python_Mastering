@@ -1,0 +1,6 @@
+Capital: 100
+Entrada ao dia: R$ 2.00
+Ganho ao dia: R$ 5.00
+Parada ao dia: R$ 2.00
+Juro Composto(30dias): 432.19
+Contagem de Dia: 30
